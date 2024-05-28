@@ -1,1 +1,3 @@
-# .github
+- https://developers.b3.com.br/apis
+- https://github.com/ramonpaolo/api-b3
+- [![API de Preço de Ações e Informações Econômicas com Python](https://img.youtube.com/vi/oIhrwXDbs1M/default.jpg)](https://youtu.be/oIhrwXDbs1M)

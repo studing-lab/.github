@@ -10,3 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+- https://developers.b3.com.br/apis
+- https://github.com/ramonpaolo/api-b3
+- [![API de Preço de Ações e Informações Econômicas com Python](https://img.youtube.com/vi/oIhrwXDbs1M/default.jpg)](https://youtu.be/oIhrwXDbs1M)
